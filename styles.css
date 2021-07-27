@@ -15,7 +15,11 @@ nav{
 
 nav a{
     color:white;
+    display: inline;
 }
 h1{
     color: white;
+}
+nav img{
+    float: left;
 }
