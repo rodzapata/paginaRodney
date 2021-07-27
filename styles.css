@@ -12,6 +12,10 @@ ul{
 nav{
     background-color:#144871 ;
 }
+
+nav a{
+    color:white;
+}
 h1{
     color: white;
 }
